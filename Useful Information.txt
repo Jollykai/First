@@ -1,2 +1,0 @@
-Video tutorials on working with git:
-https://www.youtube.com/playlist?list=PLU2ftbIeotGr_C-6t_lXH1Z3VgS5TLLdb
